@@ -71,7 +71,7 @@ Voici la structure de base du projet :
 
 Voici à quoi ressemble l'interface de l'application :
 
-![Capture d'écran de l'application](assets/img.png)
+![Aperçu de React-Taskers](./src/assets/img.png)
 
 ## 🤝 Contribuer
 
