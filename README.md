@@ -1,20 +1,20 @@
-# React-Taskers
+# 🚀 React-Taskers
 
-React-Taskers est une application de gestion de tâches construite avec **React** et stylisée avec **Tailwind CSS**. Cette application permet aux utilisateurs de gérer leurs tâches quotidiennes en ajoutant, modifiant, supprimant et marquant les tâches comme terminées, avec une interface moderne et responsive.
+**React-Taskers** est une application de gestion de tâches construite avec **React** ⚛️ et stylisée avec **Tailwind CSS** 🌿. Cette application permet aux utilisateurs de gérer leurs tâches quotidiennes 📅 en ajoutant, modifiant, supprimant et marquant les tâches comme terminées ✅, avec une interface moderne et responsive.
 
-## Fonctionnalités
+## 🛠️ Fonctionnalités
 
-- **Ajout de tâches** : Permet d'ajouter de nouvelles tâches à la liste.
-- **Suppression de tâches** : Permet de supprimer des tâches.
-- **Création de nouveau projet** : Permet d'ajouter projet .
+- **Ajout de tâches** ➕ : Permet d'ajouter de nouvelles tâches à la liste.
+- **Suppression de tâches** ❌ : Permet de supprimer des tâches.
+- **Création de nouveau projet** 📂 : Permet d'ajouter un projet.
 
-## Prérequis
+## ⚡ Prérequis
 
-Avant de commencer, assurez-vous que vous avez installé [Node.js](https://nodejs.org/). Ce projet utilise également **Tailwind CSS** pour le style.
+Avant de commencer, assurez-vous que vous avez installé [Node.js](https://nodejs.org/) 🖥️. Ce projet utilise également **Tailwind CSS** 🌟 pour le style.
 
-## Installation
+## 🔧 Installation
 
-### 1. Cloner le repository
+### 1. Clonez le repository
 
 Clonez le repository de **React-Taskers** depuis GitHub :
 
@@ -22,7 +22,7 @@ Clonez le repository de **React-Taskers** depuis GitHub :
 git clone https://github.com/Martialdepaul/react-taskers.git
 ```
 
-### 2. Accéder au projet et installer les dépendances
+### 2. Accédez au projet et installez les dépendances
 
 Accédez au dossier du projet et installez les dépendances avec npm :
 
@@ -31,7 +31,7 @@ cd react-taskers
 npm install
 ```
 
-### 3. Lancer l'application
+### 3. Lancez l'application
 
 Lancez l'application en mode développement avec la commande suivante :
 
@@ -39,16 +39,15 @@ Lancez l'application en mode développement avec la commande suivante :
 npm start
 ```
 
-Cela ouvrira l'application dans votre navigateur à l'adresse [http://localhost:3000](http://localhost:3000).
+Cela ouvrira l'application dans votre navigateur à l'adresse [http://localhost:3000](http://localhost:3000) 🌐.
 
-## Technologies utilisées
+## 🖥️ Technologies utilisées
 
-- **React** : Framework JavaScript pour construire l'interface utilisateur.
-- **Tailwind CSS** : Framework CSS utilitaire pour une mise en page rapide et réactive.
-- **React Hooks** : Utilisé pour gérer l'état et les effets dans l'application.
-- **LocalStorage** : Pour la persistance des tâches entre les sessions du navigateur.
+- **React** ⚛️ : Framework JavaScript pour construire l'interface utilisateur.
+- **Tailwind CSS** 🌿 : Framework CSS utilitaire pour une mise en page rapide et réactive.
+- **React Hooks** 🔧 : Utilisé pour gérer l'état et les effets dans l'application.
 
-## Structure du projet
+## 🗂️ Structure du projet
 
 Voici la structure de base du projet :
 
@@ -68,34 +67,26 @@ Voici la structure de base du projet :
     - index.html       # Page HTML principale
 ```
 
-## Exemple de Capture d'écran
+## 🖼️ Exemple de Capture d'écran
 
 Voici à quoi ressemble l'interface de l'application :
 
 ![Capture d'écran de l'application](./screenshot.png)
 
-## Contribuer
+## 🤝 Contribuer
 
 Les contributions sont les bienvenues ! Si vous souhaitez contribuer, veuillez suivre les étapes ci-dessous :
 
-1. Forkez le projet.
+1. Forkez le projet 🍴.
 2. Créez une branche pour votre fonctionnalité (`git checkout -b feature/nouvelle-fonctionnalité`).
 3. Effectuez vos modifications et validez-les (`git commit -am 'Ajout d'une nouvelle fonctionnalité'`).
 4. Poussez vos modifications vers votre branche (`git push origin feature/nouvelle-fonctionnalité`).
-5. Ouvrez une pull request.
+5. Ouvrez une pull request 🔀.
 
-## License
+## 📜 License
 
 Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus d'informations.
 
-## Auteurs
+## 👨‍💻 Auteurs
 
 - **Martial De-Paul** - Développeur principal
-
-```
-
-### Points clés :
-- **Tailwind CSS** est mentionné dans les technologies utilisées, et cela est reflété dans le style de ton application.
-- La **structure du projet** est décrite, avec l'organisation des fichiers React et des composants principaux comme `Task.js`, `TaskList.js`, `AddTask.js`, et `Filter.js`.
-- Le processus d'**installation et d'exécution** est détaillé pour une configuration rapide du projet.
-- Le fichier inclut également une section de **contribution** pour faciliter les ajouts de nouveaux développeurs.
